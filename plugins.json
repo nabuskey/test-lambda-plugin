@@ -4,118 +4,14 @@
     "description": "AWS Lambda Deployment Plugin",
     "provider": "https://aws.amazon.com",
     "releases": [
-      {
-        "version": "0.0.3",
-        "date": "2020-10-27T15:58:20.310166Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "2f239673405e3b3ca789cc6d3052d0f8c251e5e68e2125ba63b44d8aa9e59248440eb93ef7cd9d555f1089365da988812599201c20a8a3f7662ad6ecd0806f40",
-        "preferred": false,
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/0.0.3/aws-lambda-deployment-plugin-spinnaker-0.0.3.zip"
-      },
-      {
-        "version": "0.0.4",
-        "date": "2020-10-30T16:26:34.235700Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "40332da633570630425cb4247ee79701fc9458bda4a25ab36caaccd87ca86d94c53579f6806a4d95fa8a198ffdb65b72562b11d6637fba41624194fb46018e72",
-        "preferred": false,
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/0.0.4/aws-lambda-deployment-plugin-spinnaker-0.0.4.zip"
-      },
-      {
-        "version": "0.0.5",
-        "date": "2020-10-30T20:14:01.022568Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "085ebcb5623ee823fb9d47c624d7bc3e9904c7d3fe79df119224670708564a4964eb0779180c3ca55f5faec2eb978c528d846b5fa23771c894b0a4658d2b17d7",
-        "preferred": false,
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/0.0.5/aws-lambda-deployment-plugin-spinnaker-0.0.5.zip"
-      },
-      {
-        "version": "0.0.8",
-        "date": "2020-11-10T16:20:32.574291Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "df95ce2e25b3ca2905186d32ec84185bf32fcb11455f5844f6c4331552f551358daa0c486ff805bc3eced79f5740005f9dbd59fa2c4e09d20dd83116661764c8",
-        "preferred": false,
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/0.0.8/aws-lambda-deployment-plugin-spinnaker-0.0.8.zip"
-      },
-      {
-        "version": "0.0.9",
-        "date": "2020-11-12T16:11:33.897701Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "e80e7e727f100e66908ec9834ec7d33207c87835b517dcf012ce6f6c67dc9bb984990344d5100a3aa68e7cbc5afe0e1e966c6a98a32bee63af5cf1ad2862a602",
-        "preferred": false,
-        "compatibility": [],
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/0.0.9/aws-lambda-deployment-plugin-spinnaker-0.0.9.zip"
-      },
-      {
-        "version": "0.0.10",
-        "date": "2020-11-18T21:14:03.902052Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "0b4322a774601b81d444f5e77593955169da59f30cd8917c2ad274bed2ede7f9d4e56cd4f8e985f1cebf1156d4db3c604f67bd99d9fcfd80832377b1230b8ade",
-        "preferred": false,
-        "compatibility": [],
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/0.0.10/aws-lambda-deployment-plugin-spinnaker-0.0.10.zip"
-      },
-      {
-        "version": "1.0.1",
-        "date": "2020-11-22T10:32:56.339239Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "1e817276421ee88dba8690a8213e011773cb4d18ed632beafb42cd2bae5bf2b189e22800b58f9884398fcd3c11115a5002ec0e615d03072768b28d8aac06a9e4",
-        "preferred": false,
-        "compatibility": [],
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/1.0.1/aws-lambda-deployment-plugin-spinnaker-1.0.1.zip"
-      },
-      {
-        "version": "1.0.2",
-        "date": "2021-01-26T21:01:30.600638Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "b011048590d16626a17017bfc4c89086cb70dc2a28b5ed3f5fa2d2b4d264be5d2488c4c83fa751c5c579e592406b6e45b657afc01d36ce9fe99729a2b6db55af",
-        "preferred": false,
-        "compatibility": [],
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/1.0.2/aws-lambda-deployment-plugin-spinnaker-1.0.2.zip"
-      },
-      {
-        "version": "1.0.4",
-        "date": "2021-06-04T17:17:21.182581Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "9a9676feceb2da9713e09c63ec6455ee9f3f92e60ee88b43ad944eea9f9a79e05d191b15e32dec0b3e5d1d996aea59d479e613f310421a25e9fa977644340e3c",
-        "preferred": false,
-        "compatibility": [],
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/1.0.4/aws-lambda-deployment-plugin-spinnaker-1.0.4.zip"
-      },
-      {
-        "version": "1.0.5",
-        "date": "2021-06-09T22:56:43.456161Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "a7e83170a482fab491d8dc55b2366f739e9c5e4efed3a5e7060e37dd47d679e7631b133c43f21c5e869b96f40b36c8d25dde9d88b2a8660c1679ee9e3575b495",
-        "preferred": false,
-        "compatibility": [],
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/1.0.5/aws-lambda-deployment-plugin-spinnaker-1.0.5.zip"
-      },
-      {
-        "version": "1.0.6",
-        "date": "2021-07-06T17:32:10.180988Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "9c9d9e77dffadd0d005a2c937d0c770eea66f1ec0350272e2f7a75f065877e2653fcbfe13a59129d6588d56ea8eae8ca9be0be609617fc55b159a5dab7e69819",
-        "preferred": false,
-        "compatibility": [],
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/1.0.6/aws-lambda-deployment-plugin-spinnaker-1.0.6.zip"
-      },
-      {
-        "version": "1.0.7",
-        "date": "2021-07-16T18:44:18.080098Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "8bfa7932dedf07740e053b50bfc23dfa23c941805f9322f8afcc635581bfcf780b3507123f1ca93e543d52b38caa07a9d90dc7e2209d69c514afe1c9254377d7",
-        "preferred": false,
-        "compatibility": [],
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/1.0.7/aws-lambda-deployment-plugin-spinnaker-1.0.7.zip"
-      },
-      {
+     {
         "version": "1.0.8",
         "date": "2021-08-02T18:37:01.955842Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "1258770c9593a2be90c487064ac94e5c13cf8d5fdb2e32ed2203d409b28d5ce3e6ca112fffa8ac5569b813c3040de9dd672dee67e45c6a9028572ea9a038fecf",
+        "sha512sum": "268db3af14c186917a4028addbc8f0282b82e04be76ca510f3fc862783e0427b0ef091d47f7d423a50d6b65a8d310eb3246a3bc432e2d42078fe49e300558249",
         "preferred": false,
         "compatibility": [],
-        "url": "https://github.com/spinnaker-plugins/aws-lambda-deployment-plugin-spinnaker/releases/download/1.0.8/aws-lambda-deployment-plugin-spinnaker-1.0.8.zip"
+        "url": "https://github.com/nabuskey/test-lambda-plugin/releases/download/0.0.1/aws-lambda-deployment-plugin-spinnaker-1.0.8.zip"
       }
     ]
   }
